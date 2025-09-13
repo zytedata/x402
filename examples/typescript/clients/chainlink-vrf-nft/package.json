@@ -14,7 +14,7 @@
     "@hono/node-server": "^1.13.8",
     "viem": "^2.23.5",
     "x402": "file:../../../../typescript/packages/x402",
-    "axios": "^1.7.9",
+    "axios": "^1.12.0",
     "x402-axios": "workspace:*"
   },
   "devDependencies": {
